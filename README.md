@@ -9,3 +9,4 @@ API:t har följande endpoints: POST /notes för att skapa en anteckning, GET /no
 För att köra projektet klonar man bara repot, skapar ett virtuellt Python-miljö, installerar beroenden med pip och startar appen med python src/app.py. Jag har också lagt till instruktioner i projektet för hur man kör testerna med pytest. Projektets struktur är enkel: src-mappen innehåller själva applikationen, tests-mappen har testerna, och .github-mappen innehåller CI-konfigurationen för GitHub Actions.
 
 Det här är mitt första DevSecOps-projekt och jag har lärt mig mycket om hur man bygger upp ett säkert API från grunden. Jag har inte lagt till användare eller inloggning men jag har planerat för det i säkerhetsanalysen. Hela projektet är tänkt att vara en bra grund att bygga vidare på i framtiden. All kod är skriven med enkelhet och tydlighet i fokus. Projektet är helt öppet och finns på GitHub.
+
